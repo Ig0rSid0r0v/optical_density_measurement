@@ -1,0 +1,21 @@
+#define PIN_PHOTO_SENSOR A0
+#include <wire.h>
+#Include <liquidCrystal_I2C.h>
+
+LiquidCrystal_I2C lcd(0x27,20,4); // set the LCD address to 0x27 for a 16 chars and 2 line display
+void setup () {
+	Serial.begin(9600);
+	lcd.init();
+	lcd.init();
+	// Print LCD.
+	lcd.backlight();
+	lcd.setCursor(2,1);
+	}
+	
+void loop() {
+	int val = analogRead(PIN_PHOTO_SENSOR);
+	Serial.println(val);
+	lcd.setCursor(3,0);
+	lcd.print(val);
+	delay(500);
+	}
