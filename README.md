@@ -1,6 +1,6 @@
 <p style="text-align: center;">Денситометр, в общем случае, - это прибор для измерения плотности исследуемого материала.</p>
-&#128526;<p style="text-align: center;"><br /><strong>Учебный проект основан на констрируировании денситиометра на базе arduino</strong></p>
-<p>&nbsp;</p>&#128526;
+<p &#128526; style="text-align: center;"><br /><strong>Учебный проект основан на констрируировании денситиометра на базе arduino</strong></p>
+<p>&nbsp; &#128526; </p>;
 <p><br /><strong>Материалы используемые в проекте:</strong></p>
 <p style="text-align: left;"><strong>1. Arduino Duemilanove</strong></p>
 <p style="text-align: left;"><strong>2. Фоторезистора GL5516</strong></p>
