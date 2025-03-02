@@ -6,4 +6,11 @@
 <p><strong>4. ЖК-дисплея</strong></p>
 <p>&nbsp;</p>
 <p>проектная система может выглядеть следующим образом:</p>
-<p><img class="t847__img t-img loaded" src="https://optim.tildacdn.com/tild6232-6538-4432-b838-393063643139/-/resize/920x/-/format/webp/33333.jpg" alt="" data-original="https://static.tildacdn.com/tild6232-6538-4432-b838-393063643139/33333.jpg" /></p>
+<p>
+  <img
+    class="Box-sc-g0xbh4-0 fzFXnm image-responsive"  <!-- Добавлен класс image-responsive -->
+    src="https://github.com/Ig0rSid0r0v/optical_density_measurement/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-03-02%20%D0%B2%2019.34.33.png?raw=true"
+    alt="Снимок экрана 2025-03-02 в 19.34.33.png"
+    data-hpc="true"
+  />
+</p>
